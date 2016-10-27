@@ -4,7 +4,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     watch: {
       js: {
-        files: ['coderbyte/challanges/*.js', '*.js', '!Gruntfile'],
+        files: ['coderbyte/challenges/*.js', '*.js', '!Gruntfile'],
         options: {
           spawn: false
         }
