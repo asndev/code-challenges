@@ -1,0 +1,9 @@
+{
+  "name": "coding challanges",
+  "dependencies": {
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt-exec": "^1.0.1"
+  }
+}
