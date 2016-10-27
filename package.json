@@ -1,9 +1,12 @@
 {
-  "name": "coding challanges",
+  "name": "coding-challanges",
   "dependencies": {
-    "grunt-contrib-watch": "^1.0.0"
   },
   "devDependencies": {
-    "grunt-exec": "^1.0.1"
+    "ava": "^0.16.0"
+  },
+  "scripts": {
+    "test": "ava",
+    "test-watch": "ava -- --watch"
   }
 }
