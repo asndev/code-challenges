@@ -1,5 +1,5 @@
 const firstFactorial = (num) => {
-  var sum = num;
+  let sum = num;
 
   while (--num > 0) {
     sum *= num;
