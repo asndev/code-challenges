@@ -1,12 +1,10 @@
 {
   "name": "coding-challenges",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "ava": "^0.16.0"
+    "jest": "^17.0.3"
   },
   "scripts": {
-    "test": "ava",
-    "test-watch": "ava -- --watch"
+    "test": "jest"
   }
 }
