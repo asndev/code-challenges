@@ -1,12 +1,7 @@
 
-Ava Test Runner: https://github.com/avajs/ava
-Assertions: https://github.com/avajs/ava#assertions
+Jest: https://facebook.github.io/jest/
 
 Howto:
 0) 'npm install'
-1) Put tests within 'tests/'
+1) Put tests within '__tests__'
 2) 'npm test'
-
-# Watch?
-
-npm test -- --watch
